@@ -4,13 +4,13 @@ A simple url uploader bot with permenent thumbnail support
 
 </p>
 <p align="center">
-  <a href="https://github.com/MRK-YT/MT-URL-Uploader/stargazers">
-    <img src="https://img.shields.io/github/stars/MRK-YT/MT-URL-Uploader?style=social">
+  <a href="https://github.com/appu2006/MT-URL-Uploader/stargazers">
+    <img src="https://img.shields.io/github/stars/appu2006/MT-URL-Uploader?style=social">
 
   </a>
   
-  <a href="https://github.com/MRK-YT/MT-URL-Uploader/fork">
-    <img src="https://img.shields.io/github/forks/MRK-YT/MT-URL-Uploader?style=Fork&style=social">
+  <a href="https://github.com/appu2006/MT-URL-Uploader/fork">
+    <img src="https://img.shields.io/github/forks/appu2006/MT-URL-Uploader?style=Fork&style=social">
 
   </a>  
 </p>
